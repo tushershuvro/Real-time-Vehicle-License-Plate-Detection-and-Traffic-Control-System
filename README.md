@@ -1,2 +1,2 @@
-# Real-time-Vehicle-License-Plate-Detection-and-Traffic-Control-System
+# Real-time-Vehicle-License-Plate-Detection-and-Traffic-Control-System (Bangoli/Enlish)
 Automatic number-plate recognition is a technology that used template matching  on images to read vehicle registration plates  to create a data base information of car owner. It can use existing closed circuit TV, road rule enforcement cameras or cameras specifically designed for the task. ANPR is used by police forces around the world for law enforcement purposes, including to check if a vehicle is registered or licensed. It is also used for electronic toll collection on pay per use roads and as a method of cataloguing the movements of traffic, for example by highways agencies 
